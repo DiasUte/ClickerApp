@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/attack_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/enemy1_dead_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/enemy2_dead_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/enemy3_dead_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/enemy5_dead_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/enemy5_idle_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/green_progress.xml" value="0.1735" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/idle_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/idle_enemy2_animation.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/idle_enemy3_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/idle_enemy4_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/idle_jack_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/drawable/robot_dead_animation.xml" value="0.116" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/ClickerApp/app/src/main/res/layout/activity_win.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
